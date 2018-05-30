@@ -21,7 +21,7 @@ var Navigation = () => {
       <div className="top-bar-right">
         <ul className="menu">
           <li className="menu-text">
-            Created by <a href = "www.google.com" target="_blank">Tanuj Yadav</a>
+            Created by <a href = "https://github.com/tanuj1998" target="_blank">Tanuj Yadav</a>
           </li>
         </ul>
 

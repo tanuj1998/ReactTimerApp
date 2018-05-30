@@ -24989,7 +24989,7 @@
 	          'Created by ',
 	          React.createElement(
 	            'a',
-	            { href: 'www.google.com', target: '_blank' },
+	            { href: 'https://github.com/tanuj1998', target: '_blank' },
 	            'Tanuj Yadav'
 	          )
 	        )
